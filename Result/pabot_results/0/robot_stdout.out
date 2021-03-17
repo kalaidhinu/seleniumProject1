@@ -1,0 +1,17 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.TC Demo Registration                                                   
+==============================================================================
+Registeringdemowebsite                                                | FAIL |
+User keyword 'clicksubmit' contains no keywords.
+------------------------------------------------------------------------------
+Suites.TC Demo Registration                                           | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\anand\PycharmProjects\seleniumProject\Result\pabot_results\0\output.xml

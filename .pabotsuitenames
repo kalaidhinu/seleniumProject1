@@ -1,0 +1,6 @@
+datasources:815043262187d56a1a083708c1441be01419ed46
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:a6d5719bbbbd99dd4d377bb7fbccb4139d71671a
+--suite Suites.TC Demo Registration
+--suite Suites.TC Demo login
