@@ -1,17 +1,24 @@
 ==============================================================================
 Suites                                                                        
 ==============================================================================
-Suites.TC Demo Registration                                                   
+Suites.TC DD1                                                                 
 ==============================================================================
-Registeringdemowebsite                                                | FAIL |
-User keyword 'clicksubmit' contains no keywords.
+Right user empty password                                             | PASS |
 ------------------------------------------------------------------------------
-Suites.TC Demo Registration                                           | FAIL |
-1 critical test, 0 passed, 1 failed
-1 test total, 0 passed, 1 failed
+Right user wrong password                                             | PASS |
+------------------------------------------------------------------------------
+wrong user right password                                             | PASS |
+------------------------------------------------------------------------------
+wrong user empty password                                             | PASS |
+------------------------------------------------------------------------------
+wrong user wrong password                                             | PASS |
+------------------------------------------------------------------------------
+Suites.TC DD1                                                         | PASS |
+5 critical tests, 5 passed, 0 failed
+5 tests total, 5 passed, 0 failed
 ==============================================================================
-Suites                                                                | FAIL |
-1 critical test, 0 passed, 1 failed
-1 test total, 0 passed, 1 failed
+Suites                                                                | PASS |
+5 critical tests, 5 passed, 0 failed
+5 tests total, 5 passed, 0 failed
 ==============================================================================
 Output:  C:\Users\anand\PycharmProjects\seleniumProject\Result\pabot_results\0\output.xml

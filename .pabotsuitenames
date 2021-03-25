@@ -1,6 +1,6 @@
-datasources:815043262187d56a1a083708c1441be01419ed46
+datasources:40da9163aa29f27d7cde26d0c392e7d2762cc638
 commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
 suitesfrom:no-suites-from-option
-file:a6d5719bbbbd99dd4d377bb7fbccb4139d71671a
---suite Suites.TC Demo Registration
---suite Suites.TC Demo login
+file:5084feb83495b33bd8d7b0e65030ba31a1820276
+--suite Suites.TC DD1
+--suite Suites.TC DD2 excel

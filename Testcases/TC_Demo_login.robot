@@ -8,7 +8,7 @@ Suite Teardown  closingbrowser
 Test Template   Login to the application
 
 *** Test Cases ***
-Logintc  ${Username}    ${Password}
+Logintc
 
 
 

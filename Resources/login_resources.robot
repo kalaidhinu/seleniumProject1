@@ -1,8 +1,11 @@
 *** Settings ***
 Library  SeleniumLibrary
 *** Variables ***
-${loginurl}
-${browser}
+${loginurl}  https://admin-demo.nopcommerce.com/
+${browser}  chrome
+
+
+
 
 *** Keywords ***
 openmyBrowser
